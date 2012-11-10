@@ -82,8 +82,8 @@ seqrplot(biofam.seq, dist.matrix = dOM, group = cl.pam6.fact, trep = 0.7, tsim =
 # overall Q is negative when there is a single representative?
 
 #### I want to make sure that only the latest official version of TraMineR is installed on my computer (1.8-3).
-#### I was not sure whether about the consequences when downloading a development version.
-#### Therefore I ran this assignment with the old version, even if te values are false.
+#### I was not sure about the consequences when downloading a development version.
+#### Therefore I will try this assignment with the old version, even if the values are false.
 
 install.packages("TraMineRextras", repos="http://R-Forge.R-project.org")
 library(TraMineRextras)
